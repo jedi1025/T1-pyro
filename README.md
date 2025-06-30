@@ -55,7 +55,7 @@ Gen1 also looks to have an older effector pcb, haven't taken that apart yet to d
 - [ ] Make a scripts for mcu fw compile and katapult deploy
 - [ ] moonraker [timelapse](https://github.com/mainsail-crew/moonraker-timelapse/blob/main/docs/installation.md)
 - [ ] Document modifications to improve bed probe [performance](https://klipper.discourse.group/t/load-cell-probing-algorithm-testing/9751/102)
-- [ ] Slay underbed dragons (potential regions were probe will not trigger as two load cells readings are exactly balanced out by 3rd load cell reading)
+- [ ] Slay underbed dragons (potential regions where probe will not trigger as two load cells readings are exactly balanced out by 3rd load cell reading)
 - [ ] Modification for filament <u>movement</u> sensor
 - [ ] Better camera (mine broke already)
 - [ ] Chamber temperature, RH, sensor
